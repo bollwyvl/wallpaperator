@@ -1,4 +1,6 @@
 # Wallpaperator: HTML5 Wallpaper Generator for E-Readers, Smartphones, etc.
+![Concept Screenshot](/bollwyvl/wallpaperator/raw/master/ux/screenshot.png)
+
 ## Motivation
 The other day, I was trying to build a screensaver set for my e-reader. Given the inflexibility of the display, and the quality of scaled images, it became clear that, even with great Gimp-fu, I would still be stuck doing a lot of work to make the shots look the way I wanted: resolution, color depth, etc.
 
