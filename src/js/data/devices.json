@@ -1,0 +1,16 @@
+{
+    "nook_simple_touch": {
+        "name": "Nook Simple Touch",
+        "vendor": "Barnes and Noble",
+        "width": 600,
+        "height": 800,
+        "color_mode": "16_grey",
+        "formats": ["png", "jpg", "gif"],
+        "modes": {
+            "screensaver": {},
+            "wallpaper": {
+                "height": 760
+            }
+        }
+    }
+}
